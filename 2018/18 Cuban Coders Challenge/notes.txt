@@ -1,0 +1,9 @@
+binary to ASCII "I am the mad hatter" x73 times
+followed by the string "POLLY WANTS A CRACKER"
+
+username: POLLY
+password: madhatter
+pin: 073
+
+RXW3-TTW9-ETGV-8HVV-PFHY-BGEB-T269
+

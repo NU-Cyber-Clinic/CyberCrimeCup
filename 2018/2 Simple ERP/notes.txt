@@ -1,0 +1,4 @@
+username: admin
+password: 123456
+
+WXMN-HCP9-376Z-8H5J-SVN8-NF7N-4925
