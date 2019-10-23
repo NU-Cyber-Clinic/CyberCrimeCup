@@ -3,6 +3,7 @@ import socket
 import pickle
 import select
 
+# TODO: Port needs to be an optional command line arg
 HOST = '127.0.0.1'
 PORT = 65432
 

@@ -3,6 +3,7 @@ import json
 import socket
 import pickle
 
+# TODO: Needs moving to command line
 input_string = "-u http://testphp.vulnweb.com/listproducts.php?cat=FUZZ -w ./test_wl.txt --hl 97 -s 0.7"
 
 
