@@ -1,4 +1,5 @@
-This challange is basic single number brute force done through dumb brute force
+This Challange is basic single number brute force done through dumb brute force
+http://101.cybertrial.co.uk/
 Level 1 : 7
 
 Level 2 : 2

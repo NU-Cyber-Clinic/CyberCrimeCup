@@ -1,20 +1,20 @@
 This challange is basic triple number brute force done through dumb brute force
 Level 1 : 344
 
-Level 2 : ?
+Level 2 : 632
 
-Level 3 : ?
+Level 3 : 963
 
-Level 4 : ?
+Level 4 : 603
 
-Level 5 : ?
+Level 5 : 100
 
-Level 6 : ?
+Level 6 : 542
 
-Level 7 : ?
+Level 7 : 931
 
-Level 8 : ?
+Level 8 : 847
 
-Level 9 : ?
+Level 9 : 641
 
-Level 10 : ?
+Level 10 : 731
