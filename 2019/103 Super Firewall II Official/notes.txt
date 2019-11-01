@@ -1,19 +1,20 @@
-23
+This Challange is basic double number brute force done through dumb brute force
+Level 1 : 23
 
-55
+Level 2 : 55
 
-91
+Level 3 : 91
 
-56
+Level 4 : 56
 
-22
+Level 5 : 22
 
-19
+Level 6 : 19
 
-77
+Level 7 : 77
 
-90
+Level 8 : 90
 
-35
+Level 9 : 35
 
-63
+Level 10 : 63
