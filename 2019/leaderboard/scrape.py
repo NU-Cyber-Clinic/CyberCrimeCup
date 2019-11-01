@@ -9,10 +9,13 @@ challengeIds = [101, 102, 103, 104]
 
 ## Get team and player data
 for challenge in challengeIds:
-	url = "https://www.cybercrime.co.uk/dashboard-challenge-preview/101"
+	url = "https://www.cybercrime.co.uk/dashboard-challenge-preview/" + str(challenge)
 
 	response = requests.request("GET", url, cookies=cookies)
-	page = BeautifulSoup(response.text, features="html.parser")
+
+	# html5lib needed for formatting as the page is really bad and not valid html
+	# pip install html5lib
+	page = BeautifulSoup(response.text, features="html5lib")
 
 	tables = page.find_all("div", {"class": "table-responsive-xl"})
 
@@ -37,9 +40,9 @@ for challenge in challengeIds:
 			team = rowParts[2].get_text()
 			uni = rowParts[3].get_text()
 			if (player in playerScores):
-				teamInfo = list(playerScores[player])
-				teamInfo[0] += point
-				playerScores[player] = tuple(teamInfo)
+				playerInfo = list(playerScores[player])
+				playerInfo[0] += point
+				playerScores[player] = tuple(playerInfo)
 			else:
 				playerScores[player] = (point, team, uni)
 
