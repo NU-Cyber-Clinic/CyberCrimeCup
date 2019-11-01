@@ -1,15 +1,19 @@
-import requests
+import requests, sys
 
 
 class Session:
-    def __init__(self, url):
+    def __init__(self, url=''):
+        try:
+            url = sys.argv[1]
+        except Exception:
+            pass
         self.session = self.create_session(url)
         
     def create_session(self, url):
         api_key = "CHANGE_ME"
 
         s = requests.session()
-        s.get(url + '?mykey=' + api_key)
+        s.get(url + '/?mykey=' + api_key)
 
         return s
 
