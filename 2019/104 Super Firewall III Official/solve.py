@@ -10,6 +10,7 @@ r = requests.session()
 counter = 0
 min = 99
 max = 1000
+sleep_time = 10
 
 #Set Session API Key
 response = r.get("http://104.cybertrial.co.uk/?mykey=" + key)
@@ -37,5 +38,5 @@ for i in range(max):
 				break
 			counter = counter + 1
 		else:
-			time.sleep(10)
+			time.sleep(sleep_time)
 			counter=0
