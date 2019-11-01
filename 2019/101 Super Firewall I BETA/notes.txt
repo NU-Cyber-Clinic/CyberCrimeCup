@@ -1,19 +1,21 @@
-7
+This Challange is basic single number brute force done through dumb brute force
+http://101.cybertrial.co.uk/
+Level 1 : 7
 
-2
+Level 2 : 2
 
-9
+Level 3 : 9
 
-5
+Level 4 : 5
 
-0
+Level 5 : 0
 
-7
+Level 6 : 7
 
-5
+Level 7 : 5
 
-1
+Level 8 : 1
 
-3
+Level 9 : 3
 
-6
+Level 10 : 6

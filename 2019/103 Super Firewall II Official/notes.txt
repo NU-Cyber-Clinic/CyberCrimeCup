@@ -1,0 +1,21 @@
+This Challange is basic double number brute force done through dumb brute force
+http://103.cybertrial.co.uk/
+Level 1 : 23
+
+Level 2 : 55
+
+Level 3 : 91
+
+Level 4 : 56
+
+Level 5 : 22
+
+Level 6 : 19
+
+Level 7 : 77
+
+Level 8 : 90
+
+Level 9 : 35
+
+Level 10 : 63
