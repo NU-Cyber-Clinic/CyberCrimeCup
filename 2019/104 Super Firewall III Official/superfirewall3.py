@@ -1,7 +1,7 @@
 import re, requests, sys, time
 
 
-api_key = "p8nwurRbyxSj3BytLMSumAe3g54H2s5TBwrNdx6K"
+api_key = "MODIFY THIS"
 range_start = 600
 range_stop = 700
 url = "http://104.cybertrial.co.uk/login"
