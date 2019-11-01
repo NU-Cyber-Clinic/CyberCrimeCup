@@ -6,14 +6,13 @@ import time
 
 key = "6StVknGQcaqqZwjJw3q4m9ypm9cGbqf2!cYV9Vjs"
 url = "http://104.cybertrial.co.uk/login"
-cookies = {"PHPSESSID": "lqamnsnbsokauc0m0ti8untjgb"}
 r = requests.session()
 counter = 0
 min = 99
 max = 1000
 
 #Set Session API Key
-response = r.get("http://104.cybertrial.co.uk/?mykey=6StVknGQcaqqZwjJw3q4m9ypm9cGbqf2!cYV9Vjs")
+response = r.get("http://104.cybertrial.co.uk/?mykey=" + key)
 #print("API Key Get Request Response Code: " + str(response.status_code))
 
 #for curPin in range(0, 1000):
@@ -38,5 +37,5 @@ for i in range(max):
 				break
 			counter = counter + 1
 		else:
-			time.sleep(6)
+			time.sleep(10)
 			counter=0
