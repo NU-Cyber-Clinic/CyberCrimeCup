@@ -1,4 +1,4 @@
-This Challange is basic single number brute force done through dumb brute force
+This challange is basic single number brute force done through dumb brute force
 Level 1 : 0
 
 Level 2 : 7
