@@ -15,6 +15,6 @@ Level 7 : 931
 
 Level 8 : 847
 
-Level 9 : ?
+Level 9 : 641
 
-Level 10 : ?
+Level 10 : 731
