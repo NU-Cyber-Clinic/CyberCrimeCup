@@ -7,7 +7,7 @@ import pickle
 input_string = "-u http://testphp.vulnweb.com/listproducts.php?cat=FUZZ -w ./test_wl.txt --hl 97 -s 0.7"
 
 
-nodes = ["127.0.0.1:65432", "127.0.0.1:65433"]
+nodes = ["51.89.231.21:65432", "51.89.230.190:65432", "51.91.137.190:65432", "51.91.142.97:65432"]
 
 def chunker_list(seq, size):
     return (seq[i::size] for i in range(size))

@@ -18,7 +18,7 @@
 	var finished = 0;
 
     challengeButtons.forEach(element => {
-		element.setAttribute("onclick", element.getAttribute("onclick").replace("document.location=", "window.open(").replace(";", ", '_blank');"))
+		//element.setAttribute("onclick", element.getAttribute("onclick").replace("document.location=", "window.open(").replace(";", ", '_blank');"))
 
 		switch (element.textContent) {
 			case "Start Challenge":
