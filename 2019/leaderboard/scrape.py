@@ -4,8 +4,8 @@ from operator import itemgetter
 
 teamScores = {}
 playerScores = {}
-cookies = {"PHPSESSID": "CHANGE_ME"}
-challengeIds = [101, 102, 103, 104]
+cookies = {"PHPSESSID": "b5e1e801sno7uh762ed073bhl2"}
+challengeIds = range(101, 105 + 1)
 
 ## Get team and player data
 for challenge in challengeIds:
