@@ -22,7 +22,7 @@ function checkChallengeCount() {
     method: 'GET',
     url: 'https://www.cybercrime.co.uk/dashboard-challenges',
     headers: {
-      "Cookie": "PHPSESSID=b5e1e801sno7uh762ed073bhl2"
+      "Cookie": "PHPSESSID=CHANGE_ME"
     }
   };
 
