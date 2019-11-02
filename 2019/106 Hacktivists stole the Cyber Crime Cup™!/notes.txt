@@ -35,3 +35,15 @@ DNS Name=chaos.hackerhideout.co.uk
 DNS Name=blog.hackerhideout.co.uk
 DNS Name=join.hackerhideout.co.uk
 DNS Name=pay.hackerhideout.co.uk
+
+cookie change to get
+{gov:savethecup4etihadstadium!}
+
+
+piece images together to get coorods
+64.1372076 -21.9449269
+
+
+
+zsteg -E b2,g,lsb,xy why-so-serious.png > pgp_sec_key
+zsteg -E b4,g,msb,xy why-so-serious.png > pgp_sec_sub_key
