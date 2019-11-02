@@ -1,20 +1,11 @@
-Base 64 decode x2
-{gov:muah_ha_ha!}
+clue.txt
+TUlJRXNUQ0NBNWtDQVFBd2djTXhDekFKQmdOVkJBWVRBa2RDTVJvd0dBWURWUVFJREJGN1oyOTJPbTExWVdoZg0KYUdGZmFHRWhmVEVvTUNZR0ExVUVCd3dmWm05eUlIUm9aU0JGZEdsb1lXUWdVM1JoWkdsMWJTQnZiaUF5TlhSbw0KSVRFa01DSUdBMVVFQ2d3YlYyVWdhR0YyWlNCMGFHVWdRM2xpWlhJZ1EzSnBiV1VnUTNWd01TWXdKQVlEVlFRTA0KREIxNWIzVWdkMmxzYkNCdVpYWmxjaUJuWlhRZ2FYUWdhVzRnZEdsdFpURWdNQjRHQTFVRUF3d1hkM2QzTG1oaA0KWTJ0bGNtaHBaR1Z2ZFhRdVkyOHVkV3N3Z2dFaU1BMEdDU3FHU0liM0RRRUJBUVVBQTRJQkR3QXdnZ0VLQW9JQg0KQVFDNzg0QW55VFpFQUdSN2Ztd3hpQS9yYVlJUTJHZkM5bnBQd3dvcHZZWDRJKzZJWnZBcWcreDlGbU93M1dKYg0KUUx5TzJnbjk2cm5oaEVXbE9CbzlYRGJrNjlwQzBseUFWTkp3dFZoNlVGVXMvNmFXZmxneXljc3l3eThiUlN4OQ0KRHlGTEJ1QzNUc09oOGU3YXRJc2xSKzRqZGh5M1JxQUljL2RuTDkxTng1bVJtSlROSkxlbEE0c3djMWxTRC9hVA0KQk0wcUxhbTBtS3VLOEZTeXZ2NmhTQXFuanV1K0t1TGhiYTc1Z0kwRWNNdlR5MVVKVTN2V1hwK2dhaTMzeUhEdw0KY05rSlRiWjEyTkpxYndmLy9qQUxMWU5pRkhiOGhvZ0kvWjF2SkZEamlFU2x3RGttMG1qV1FFQVJGUkl1RWo4cw0KQzh4OXVBK0ZrK0N5di93Sk5IcFExaTlKQWdNQkFBR2dnZ0dtTUJvR0Npc0dBUVFCZ2pjTkFnTXhEQllLTmk0eA0KTGpjMk1ERXVNakJDQmdrckJnRUVBWUkzRlJReE5UQXpBZ0VGREF4QlpISnBZVzVOWVhSeWFYZ01FMEZFVWtsQg0KVGsxQlZGSkpXRnhCWkhKcFlXNE1DMGx1WlhSTlozSXVaWGhsTUhJR0Npc0dBUVFCZ2pjTkFnSXhaREJpQWdFQg0KSGxvQVRRQnBBR01BY2dCdkFITUFid0JtQUhRQUlBQlNBRk1BUVFBZ0FGTUFRd0JvQUdFQWJnQnVBR1VBYkFBZw0KQUVNQWNnQjVBSEFBZEFCdkFHY0FjZ0JoQUhBQWFBQnBBR01BSUFCUUFISUFid0IyQUdrQVpBQmxBSElEQVFBdw0KZ2M4R0NTcUdTSWIzRFFFSkRqR0J3VENCdmpBT0JnTlZIUThCQWY4RUJBTUNCUEF3RXdZRFZSMGxCQXd3Q2dZSQ0KS3dZQkJRVUhBd0V3ZUFZSktvWklodmNOQVFrUEJHc3dhVEFPQmdncWhraUc5dzBEQWdJQ0FJQXdEZ1lJS29aSQ0KaHZjTkF3UUNBZ0NBTUFzR0NXQ0dTQUZsQXdRQktqQUxCZ2xnaGtnQlpRTUVBUzB3Q3dZSllJWklBV1VEQkFFQw0KTUFzR0NXQ0dTQUZsQXdRQkJUQUhCZ1VyRGdNQ0J6QUtCZ2dxaGtpRzl3MERCekFkQmdOVkhRNEVGZ1FVMU9Bdg0KWHYvRDJ3ZHE0MjRMVG1hTnpiZmREc2t3RFFZSktvWklodmNOQVFFRkJRQURnZ0VCQUFuYWJMbm1Va3ZPazFHYQ0KTUhSbHNqQmtqNlptODFicTh6aTh4dDFaRVQzT29RK0N4ZEtjWXNTZlZ0b0l0TCtCUmhMdGVsenpqdEcyME42YQ0KbEtjMEpuRkRLOWt0UzZKTDBDa0UySnArUjRsTXYzemtKdEhSZzNoQ3dFZ0V2V0Vvc1pLclRXb1JPN3hsNW8yVQ0KQ1pMUDV4a243ZGljZnlpbDZ1VE56MW1yU0FZcW1RU28wK0R6aFpZenhXOXlvM2xwOHYrRUZCQmd6US9wQnVLZw0KTEdxL0c5ZEdldGx4ZXZLdTNEREJodUJhbGxIWlkzRjVEQ2RvSElFVU9LajU1ZHhmMkRTaGNwZmY4VU90VCtkdw0KRzliOGxRVlBTVnVzbytOeTRNNFlRZFlhcU15aU9hUTE5bE1lZEZjb1lUd25mbWkyUVd1ZFdKcHl3RGh4UEFMUA0KUEZLakZzOD0=
+##########
 
+cat clue.txt | base64 -d
 
-Sent orig to:
-www.hackerhideout.co.uk/activate?token=KZe5KsB!4RGW5cA7Dg&email=ryan@rtm516.co.uk
-
-Alter to:
-www.hackerhideout.co.uk/activate?token=KZe5KsB!4RGW5cA7Dg&email=ryan@test.gov
-
-but b4 open register with ryan@test.gov
-
-www.hackerhideout.co.uk/activate?token=B4UTyVS5AJvzn!uLbn&email=panel@test.gov
-panel@rtm516.co.uk
-panel@test.gov
-password123
-
+base64 decode string once to get microsoft csr
+decode with https://certlogik.com/decoder/
 
 DNS Name=www.hackerhideout.co.uk
 DNS Name=hackerhideout.co.uk
@@ -23,12 +14,27 @@ DNS Name=blog.hackerhideout.co.uk
 DNS Name=join.hackerhideout.co.uk
 DNS Name=pay.hackerhideout.co.uk
 
-https://chaos.hackerhideout.co.uk/
+{gov:muah_ha_ha!}
+##########
+
+https://www.hackerhideout.co.uk/register
+
+register twice, once with non .gov email and once with .gov email
+when activating your token, replace the link in the email with .gov email
+
+replace this:
+www.hackerhideout.co.uk/activate?token=KZe5KsB!4RGW5cA7Dg&email=ryan@rtm516.co.uk
+with this:
+www.hackerhideout.co.uk/activate?token=KZe5KsB!4RGW5cA7Dg&email=ryan@test.gov
+##########
+
+login to https://chaos.hackerhideout.co.uk/
 {gov:welcometohacktivism!2019}
 
-cookie change to get
+https://chaos.hackerhideout.co.uk/secret-documents
+change is_verified cookie to yes
 {gov:savethecup4etihadstadium!}
-
+##########
 
 piece images together to get coordinates
 64.1372076 -21.9449269
