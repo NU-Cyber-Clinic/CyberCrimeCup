@@ -1,12 +1,5 @@
 Base 64 decode x2
-
 {gov:muah_ha_ha!}
-
-
-
-
-
-ryantmilner@hotmail.co.uk!"£$%^&*()_+{}:@~<>?,./;'#[-=.gov
 
 
 Sent orig to:
@@ -23,18 +16,15 @@ panel@test.gov
 password123
 
 
-wfuzz --oF wfuzz-log -u https://www.hackerhideout.co.uk/ -w [WORDLIST] --hs "404" -c
-
-
-https://chaos.hackerhideout.co.uk/
-{gov:welcometohacktivism!2019}
-
 DNS Name=www.hackerhideout.co.uk
 DNS Name=hackerhideout.co.uk
 DNS Name=chaos.hackerhideout.co.uk
 DNS Name=blog.hackerhideout.co.uk
 DNS Name=join.hackerhideout.co.uk
 DNS Name=pay.hackerhideout.co.uk
+
+https://chaos.hackerhideout.co.uk/
+{gov:welcometohacktivism!2019}
 
 cookie change to get
 {gov:savethecup4etihadstadium!}
