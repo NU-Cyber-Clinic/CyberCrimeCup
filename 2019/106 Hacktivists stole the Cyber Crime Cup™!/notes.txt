@@ -30,10 +30,23 @@ cookie change to get
 {gov:savethecup4etihadstadium!}
 
 
-piece images together to get coorods
+piece images together to get coordinates
 64.1372076 -21.9449269
 
+main street name
+njardargata
 
+side street name
+sturlugata
 
-zsteg -E b2,g,lsb,xy why-so-serious.png > pgp_sec_key
-zsteg -E b4,g,msb,xy why-so-serious.png > pgp_sec_sub_key
+marked building
+kaffistofur-studenta
+
+building containing cup
+nordic-house
+
+passphrase to enter building
+whysoserious
+
+answer to hidden question
+no-bell
