@@ -7,14 +7,10 @@ cat clue.txt | base64 -d
 base64 decode string once to get microsoft csr
 decode with https://certlogik.com/decoder/
 
-DNS Name=www.hackerhideout.co.uk
-DNS Name=hackerhideout.co.uk
-DNS Name=chaos.hackerhideout.co.uk
-DNS Name=blog.hackerhideout.co.uk
-DNS Name=join.hackerhideout.co.uk
-DNS Name=pay.hackerhideout.co.uk
-
+Got flag and new url from cert
 {gov:muah_ha_ha!}
+www.hackerhideout.co.uk
+
 ##########
 
 https://www.hackerhideout.co.uk/register
@@ -28,6 +24,18 @@ with this:
 www.hackerhideout.co.uk/activate?token=KZe5KsB!4RGW5cA7Dg&email=ryan@test.gov
 ##########
 
+Looking at the 'Subject Alternative Name' on the ssl cert for hackerhideout.co.uk we got these domains.
+Only chaos.hackerhideout.co.uk goes anywhere
+
+DNS Name=www.hackerhideout.co.uk
+DNS Name=hackerhideout.co.uk
+DNS Name=chaos.hackerhideout.co.uk
+DNS Name=blog.hackerhideout.co.uk
+DNS Name=join.hackerhideout.co.uk
+DNS Name=pay.hackerhideout.co.uk
+
+##########
+
 login to https://chaos.hackerhideout.co.uk/
 {gov:welcometohacktivism!2019}
 
@@ -36,7 +44,8 @@ change is_verified cookie to yes
 {gov:savethecup4etihadstadium!}
 ##########
 
-piece images together to get coordinates
+piece images together to get location and from there you can get 
+the place and its exact coordinates
 64.1372076 -21.9449269
 
 main street name
