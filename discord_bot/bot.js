@@ -59,7 +59,7 @@ function checkChallengeCount() {
 function panic(chal_count) {
   console.log("New challenge alerting!");
 
-  client.channels.get("517388963665805334").send("New challenge! https://www.cybercrime.co.uk/dashboard-challenge-preview/10" + chal_count + " <@170429173003714560> <@505414674003656765> <@220548182650781696> <@215715196960768002> <@545297878172827659>");
+  client.channels.get("517388963665805334").send("New challenge! https://www.cybercrime.co.uk/dashboard-challenge-preview/10" + chal_count + " <@&640556007952744478>");
 
   const streamOptions = {
     seek: 0,
