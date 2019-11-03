@@ -1,132 +1,152 @@
-119,Ryan Milner,NULL,Northumbria
-114,Wen Jun Lee,NULL,Northumbria
-113,Cameron Jones,Seg Fault Squad,Rhul
-113,Joe Cockcroft,NULL,Northumbria
-104,tom bailey,Seg Fault Squad,Rhul
-101,Oliver Graham,Seg Fault Squad,Rhul
-100,Cosmin Bianu,NULL,Northumbria
-99,Joshua Sawyer,Seg Fault Squad,Rhul
-99,Isaac Scarisbrick,Seg Fault Squad,Rhul
-99,Matthew Chambers,NULL,Northumbria
-84,Cameron Clough,The Famtastic Lomgbois,Lancaster
-81,Eng Cheng Kai,SIGINT,ED
-77,Alex Leigh,The Famtastic Lomgbois,Lancaster
-76,Henry Clarke,The Stallions,Lancaster
-66,William Macluskie,The Famtastic Lomgbois,Lancaster
-64,James Boorman,Piethon,Lancaster
-63,Kit Murdock,JEKyll,Bham
-61,Warren Stockdale,Gonzo Masters,Lancaster
-58,Melania Ionica,Runtime Terror,Lancaster
-54,C Hkscy,JEKyll,Bham
-53,John Richardson,SESH A,Sheffield
-49,Jordan Bell,licensed_winrar,Napier
+142,Cameron Jones,Seg Fault Squad,Rhul
+139,Ryan Milner,NULL,Northumbria
+135,Joe Cockcroft,NULL,Northumbria
+135,Wen Jun Lee,NULL,Northumbria
+134,Cameron Clough,The Famtastic Lomgbois,Lancaster
+133,Cosmin Bianu,NULL,Northumbria
+132,tom bailey,Seg Fault Squad,Rhul
+131,Oliver Graham,Seg Fault Squad,Rhul
+126,Isaac Scarisbrick,Seg Fault Squad,Rhul
+125,Joshua Sawyer,Seg Fault Squad,Rhul
+119,Matthew Chambers,NULL,Northumbria
+102,Charlie Hosier,flagDropper,Napier
+101,Eng Cheng Kai,SIGINT,ED
+94,Thomas Barber,Hacks out for Harambe,Leedsbeckett
+93,Warren Stockdale,Gonzo Masters,Lancaster
+91,William Macluskie,The Famtastic Lomgbois,Lancaster
+87,Graeme Moss,Hacks out for Harambe,Leedsbeckett
+85,Henry Clarke,The Stallions,Lancaster
+83,Kit Murdock,JEKyll,Bham
+81,ZITAI CHEN,43mice,Bham
+79,Alex Leigh,The Famtastic Lomgbois,Lancaster
+76,C Hkscy,JEKyll,Bham
+73,Jeyamohan Neera,PrivBit,Northumbria
+71,James Boorman,Piethon,Lancaster
+67,Ryan Ritchie,UWE CyberSociety Team,UWE Bristol
+65,Jordan Bell,licensed_winrar,Napier
+65,Melania Ionica,Runtime Terror,Lancaster
+61,The one with the penguin,licensed_winrar,Napier
+61,John Richardson,SESH A,Sheffield
+58,Coaran Greavison,z00mers,Kent
+56,D Dixon,Underated,Bham
+56,kieran Rendall,413Payload2Large,Bournemouth
+50,Laszlo Nagy,M4nch35t3r,Manchester
 49,Thomas Miller,The Famtastic Lomgbois,Lancaster
-48,connor nelson,BackSlasher,Blackpool
+49,connor nelson,BackSlasher,Blackpool
+47,Saira Hassan,M4nch35t3r,Manchester
 46,Matthew Boakes,pollyWannaHacker,Kent
 46,Polo Mints,0x03f3,Myport
-45,The one with the penguin,licensed_winrar,Napier
-43,Prabhat Verma,unb00tables,Manchester
-42,Nikolina Tudjarova,unb00tables,Manchester
-42,Laszlo Nagy,M4nch35t3r,Manchester
-42,Graeme Moss,Hacks out for Harambe,Leedsbeckett
+45,Jack Tabash,Hacky McHackface,Southwales
+44,Nikolina Tudjarova,unb00tables,Manchester
+44,Prabhat Verma,unb00tables,Manchester
+44,Alice Conibere,Byte for Bait,Bournemouth
+43,Alex Butler,The Stallions,Lancaster
+43,Jamie Harper,SIGINT,ED
+43,Steven Araujo,Bl4ckSn@k3_C3lul4,ESPOL
+42,Esha Dasgupta,Underated,Bham
+42,Jack Barradell-Johns,SESH A,Sheffield
 42,Robert Halliwell,Hacks out for Harambe,Leedsbeckett
 40,Andrew Scholey,Wintermute is in charge,Leedsbeckett
-38,Alex Butler,The Stallions,Lancaster
-37,Gwion ap Rheinallt,SIGINT,ED
+39,Gwion ap Rheinallt,SIGINT,ED
+39,Matthew Rollings,Hacky McHackface,Southwales
+37,Leshna Shamloll,unb00tables,Manchester
 37,kalon mcguigan,BackSlasher,Blackpool
-36,Leshna Shamloll,unb00tables,Manchester
-35,kieran Rendall,413Payload2Large,Bournemouth
+34,Alistair Porter,WhoAreWe,MMU
+34,Liam Kenny,Hacky McHackface,Southwales
 34,Joseph Rose,0x03f3,Myport
-33,Saira Hassan,M4nch35t3r,Manchester
-32,Manuel Zhindon,unb00tables,Manchester
+33,Manuel Zhindon,unb00tables,Manchester
+33,Bernard Tomczyk,Runtime Terror,Lancaster
+32,Ekku Jokinen,TheATeam,UAD
+31,Antony Harley,Runtime Terror,Lancaster
 31,Andreea-Ina Radu,JEKyll,Bham
-31,Thomas Barber,Hacks out for Harambe,Leedsbeckett
 31,James Cook,0x03f3,Myport
+29,Ric Derbyshire,Piethon,Lancaster
 29,Tiarnan Giles,Hackingham,Nottingham
-28,Matthew Rollings,Hacky McHackface,Southwales
-27,Esha Dasgupta,Underated,Bham
 27,As bb,IDORa the Exploiter,Liverpool
-27,Liam Kenny,Hacky McHackface,Southwales
 27,Kieron Babhania,Flat 4,LE
-26,Bernard Tomczyk,Runtime Terror,Lancaster
 26,Vasilis Ieropoulos,Hackingham,Nottingham
 26,David Evans,Gonzo Masters,Lancaster
-25,Jack Tabash,Hacky McHackface,Southwales
-23,Ekku Jokinen,TheATeam,UAD
+25,Jessica Tapia,Piethon,Lancaster
+25,Tom Shaw,Hacks out for Harambe,Leedsbeckett
+24,Daumantas Kojelis,Kibir Tele Vibir,Manchester
+24,Carlos Jimnez,Bl4ckSn@k3_C3lul4,ESPOL
 22,Ross Simpson,licensed_winrar,Napier
-22,Antony Harley,Runtime Terror,Lancaster
+22,Aaron Petrie,WhoAreWe,MMU
+22,Christopher Holder,Rabbit Season,UEA
 22,Perry Howell,IDORa the Exploiter,Liverpool
-21,Coaran Greavison,z00mers,Kent
 21,Wiktor Kaluza,anonymouse,ED
-21,Carlos Jimnez,Bl4ckSn@k3_C3lul4,ESPOL
-20,Christopher Holder,Rabbit Season,UEA
+21,Graeme Brodie,Underated,Bham
+21,Harlan Connor,IDORa the Exploiter,Liverpool
 20,Hristo Zhelyazkov,Manny1337,Salford
+19,Pijus Bradulskis,Kibir Tele Vibir,Manchester
+19,Lee Jones,Hacky McHackface,Southwales
+19,Siddhartha Mishra,Hackingham,Nottingham
 18,Jianbo Liu,Wizards of Holloway Place,Rhul
-18,Harlan Connor,IDORa the Exploiter,Liverpool
-16,Petar Artinov,unb00tables,Manchester
-16,Alistair Porter,WhoAreWe,MMU
-16,Jack Barradell-Johns,SESH A,Sheffield
-15,Lee Jones,Hacky McHackface,Southwales
-15,Sarah Wolstencroft,0xDEADBEEF,Rhul
-14,Ben Simms,The Stallions,Lancaster
+17,Petar Artinov,unb00tables,Manchester
+16,Connor Duncan,TheATeam,UAD
+16,Ben Simms,The Stallions,Lancaster
+16,Nathan Edmond,Getting Edumacated,Northumbria
+16,Kenny Camba Torres,Bl4ckSn@k3_C3lul4,ESPOL
+16,Sarah Wolstencroft,0xDEADBEEF,Rhul
+15,Paulius Ivaskevicius,The Stallions,Lancaster
+15,Jonathan Freer,Corkscrew,Bham
 13,Tom Macey,csgrodo,Rhul
+13,Sunny Sherry,TheATeam,UAD
+13,Simas Kuprelis,Kibir Tele Vibir,Manchester
+13,Tomas Savickas,Kibir Tele Vibir,Manchester
+13,Chris Purdy,Hackingham,Nottingham
+13,EWAN BAINS,Corkscrew,Bham
+13,George Vasilakis,43mice,Bham
 12,Kieran Walker,Netrunning with the Devil,Coventry
-12,Chris Purdy,Hackingham,Nottingham
+11,Joe Dillon,csgrodo,Rhul
 11,Margaret Gumble,SnailSquad,Liverpool
 11,Andrej Szalma,Salty Seagulls ,Abdn
-11,Kenny Camba Torres,Bl4ckSn@k3_C3lul4,ESPOL
-10,Jamie Harper,SIGINT,ED
-10,Steven Araujo,Bl4ckSn@k3_C3lul4,ESPOL
-9,Ric Derbyshire,Piethon,Lancaster
-9,Alice Conibere,Byte for Bait,Bournemouth
+9,Hero XD,43mice,Bham
+8,Korben James Ryan Mabbs,z00mers,Kent
 8,Bruce Lay,csgrodo,Rhul
 8,Jada Darkwah,Wizards of Holloway Place,Rhul
-8,Paulius Ivaskevicius,The Stallions,Lancaster
-8,Jeyamohan Neera,PrivBit,Northumbria
+8,Max Shaughnessy,IDORa the Exploiter,Liverpool
 8,Elliot Callaghan,Flat 4,LE
 8,Marcos Vicente Rios Castro,Bl4ckSn@k3_C3lul4,ESPOL
+8,Joshua Beaman,413Payload2Large,Bournemouth
 8,Ben Ellis,413Payload2Large,Bournemouth
-7,Korben James Ryan Mabbs,z00mers,Kent
-7,Connor Duncan,TheATeam,UAD
+7,Stuart Laing,licensed_winrar,Napier
 7,Matt Marsden,Piethon,Lancaster
 7,Adam Cowdy,M4nch35t3r,Manchester
 7,Luis Ledezma Molina,BugHunters,RGU
 7,Luca Saleh,0xDEADBEEF,Rhul
-6,Stuart Laing,licensed_winrar,Napier
 6,Luke Walker,WhoAreWe,MMU
-6,Max Shaughnessy,IDORa the Exploiter,Liverpool
 6,Will Simmons,Hacky McHackface,Southwales
 6,Reem Alahmari,BlueBird ,York
-6,Hero XD,43mice,Bham
-6,ZITAI CHEN,43mice,Bham
-5,Joe Dillon,csgrodo,Rhul
-5,Ryan Ritchie,UWE CyberSociety Team,UWE Bristol
-5,Sunny Sherry,TheATeam,UAD
-5,Tom Shaw,Hacks out for Harambe,Leedsbeckett
+5,Stoica Daniel,Lovelace,Bham
 5,Chle Ungar,Hacks out for Harambe,Leedsbeckett
-5,Siddhartha Mishra,Hackingham,Nottingham
-5,Jonathan Freer,Corkscrew,Bham
-5,Joshua Beaman,413Payload2Large,Bournemouth
 4,Thomas Docherty,z00mers,Kent
-4,Stoica Daniel,Lovelace,Bham
-4,Simas Kuprelis,Kibir Tele Vibir,Manchester
+4,Toma Madanski,Gonzo Masters,Lancaster
+4,Carl Slatter,Getting Edumacated,Northumbria
+3,Marco Genovese,flagDropper,Napier
 3,Christopher Oladipupo Rodipe,csgrodo,Rhul
 3,Harry Balderstone,The Stallions,Lancaster
 3,Chloe Taylor,Runtime Terror,Lancaster
+3,Niklas Henderson,Rabbit Season,UEA
+3,James Henderson,JEKyll,Bham
 3,Hani Momeninia,Hackingham,Nottingham
 3,Solomon Appiah,Hack Keele,Keele
 3,Zulkifal Raza,Flat 4,LE
+3,Charles de Freitas,Corkscrew,Bham
+3,Wagner Sousa,BugHunters,RGU
 3,Zak Brown,0x03f3,Myport
 2,Calvin Brierley,pollyWannaHacker,Kent
 2,Jamie Pont,pollyWannaHacker,Kent
 2,Jorge Sanz,SIGINT,ED
-2,James Henderson,JEKyll,Bham
-2,Toma Madanski,Gonzo Masters,Lancaster
+2,Charalampos Billinis,SESH A,Sheffield
+2,Torin Carey,SESH A,Sheffield
+2,Matthew Holmes,Rabbit Season,UEA
+2,Ben Sassoon,Corkscrew,Bham
 2,Adrian Thompson,BCS Referree,BCS
-1,Charlie Hosier,flagDropper,Napier
-1,D Dixon,Underated,Bham
 1,Alastair White,SIGINT,ED
-1,Niklas Henderson,Rabbit Season,UEA
+1,Sam Leonard,M4nch35t3r,Manchester
+1,Ryan Harrison,M4nch35t3r,Manchester
 1,Justin Chadwell,JEKyll,Bham
 1,Jonah Burgess,CultOfTheDeadCarrot,QUB
 1,Jahid Ali,BCU{Cyber},BCU
+1,Sarah Kingham,413Payload2Large,Bournemouth
