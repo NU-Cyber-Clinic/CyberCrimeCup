@@ -49,6 +49,11 @@ function checkChallengeCount() {
 
     console.log("Challenge count: " + chal_count + " vs " + chal_count_last);
 
+    if (chal_count == 0) {
+      client.channels.get("641018734353580043").send("Session needs updating <@170429173003714560>");
+      console.log("We need a new cookie!");
+    }
+
     if (chal_count > chal_count_last) {
       fs.writeFile("chal_count.txt", chal_count, () => {})
       panic(chal_count);
@@ -59,14 +64,14 @@ function checkChallengeCount() {
 function panic(chal_count) {
   console.log("New challenge alerting!");
 
-  client.channels.get("517388963665805334").send("New challenge! https://www.cybercrime.co.uk/dashboard-challenge-preview/10" + chal_count + " <@&640556007952744478>");
+  client.channels.get("641018734353580043").send("New challenge! https://www.cybercrime.co.uk/dashboard-challenge-preview/10" + chal_count + " @everyone");
 
   const streamOptions = {
     seek: 0,
     volume: 1
   };
 
-  client.channels.get("517389057102184462").join().then(connection => {
+  client.channels.get("641018734353580050").join().then(connection => {
     console.log("Joined voice channel");
     const stream = ytdl("https://www.youtube.com/watch?v=dQw4w9WgXcQ", {
       filter: "audioonly"
