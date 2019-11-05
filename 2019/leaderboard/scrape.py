@@ -5,7 +5,7 @@ from operator import itemgetter
 teamScores = {}
 playerScores = {}
 cookies = {"PHPSESSID": "CHANGE_ME"}
-challengeIds = range(101, 106 + 1)
+challengeIds = range(101, 107 + 1)
 
 ## Get team and player data
 for challenge in challengeIds:
@@ -21,7 +21,7 @@ for challenge in challengeIds:
 
 	for row in tables[0].table.tbody.find_all("tr"):
 		rowParts = row.find_all("td")
-		if (len(rowParts) >= 1):
+		if (len(rowParts) >= 1 and not ("colspan" in rowParts[0].attrs)):
 			point = int((rowParts[0].get_text().replace("Pts", "")))
 			team = rowParts[1].get_text()
 			uni = rowParts[2].get_text()
@@ -34,7 +34,7 @@ for challenge in challengeIds:
 	
 	for row in tables[1].table.tbody.find_all("tr"):
 		rowParts = row.find_all("td")
-		if (len(rowParts) >= 1):
+		if (len(rowParts) >= 1 and not ("colspan" in rowParts[0].attrs)):
 			point = int((rowParts[0].get_text().replace("Pts", "")))
 			player = rowParts[1].get_text()
 			team = rowParts[2].get_text()
