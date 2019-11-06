@@ -1,20 +1,40 @@
-Comment
+# First we opened the source of the page
+# in there we found a HTML comment with
+# the sixth flag
 {ccc_cry:836455593x6}
 
-ROT
+# The first flag was a simple ROT cypher
+# we used dcode.fr to brute force it
+# we got ASCII[!-~]+93 as the best result 
+# and from that output we got the flag
 {ccc_cry:947264835x1}
 
 
-ROT
+# The second flag was found using the same
+# method as the first but this time we got
+# ASCII+1 as the ROT sequence
 {ccc_cry:739351804x2}
 
-ROT
+# The forth flag was found again by using 
+# dcode.fr and got ASCII+122 as the ROT
+# sequence getting us this flag
 {ccc_cry:453950722x4}
 
-
-rot then every other char was the one before it in the alph
+# For the third flag we started with
+# the ROT brute force and got ASCII+1
+# as the best squence but it was still
+# a mess, so from there we extraced a
+# string that followed the flag format
 {dcd_drz:794755309x4}
+# we then started looking at it and Joe
+# worked out that every other character
+# needed to be replaced with the one before
+# it in the alphabet
 {ccc_cry:693745208x3}
 
 
+every 4th letter, move back 4 spaces, then: select 3 first letters, move to front, select next 1 letter, append to front, select next 3, move to front, select next 1, append to front, etc.
 {ccc_cry:010538732x5}
+
+7
+ccc_cry:34553478
