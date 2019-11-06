@@ -2,44 +2,44 @@
 186,Ryan Milner,NULL,Northumbria
 182,Cameron Jones,Seg Fault Squad,Rhul
 182,Joe Cockcroft,NULL,Northumbria
+179,Wen Jun Lee,NULL,Northumbria
 176,Oliver Graham,Seg Fault Squad,Rhul
 173,tom bailey,Seg Fault Squad,Rhul
 169,Joshua Sawyer,Seg Fault Squad,Rhul
 166,Cosmin Bianu,NULL,Northumbria
-163,Wen Jun Lee,NULL,Northumbria
-152,Matthew Chambers,NULL,Northumbria
-150,Isaac Scarisbrick,Seg Fault Squad,Rhul
-146,Matthew Rollings,Hacky McHackface,Southwales
-130,Charlie Hosier,flagDropper,Napier
-130,Liam Kenny,Hacky McHackface,Southwales
+164,Matthew Chambers,NULL,Northumbria
+161,Matthew Rollings,Hacky McHackface,Southwales
+157,Liam Kenny,Hacky McHackface,Southwales
+155,Isaac Scarisbrick,Seg Fault Squad,Rhul
+133,Charlie Hosier,flagDropper,Napier
+132,Thomas Barber,Hacks out for Harambe,Leedsbeckett
 128,Henry Clarke,The Stallions,Lancaster
 127,Lee Jones,Hacky McHackface,Southwales
 125,Eng Cheng Kai,SIGINT,ED
 122,Warren Stockdale,Gonzo Masters,Lancaster
-121,Thomas Barber,Hacks out for Harambe,Leedsbeckett
+121,Graeme Moss,Hacks out for Harambe,Leedsbeckett
 116,Jack Tabash,Hacky McHackface,Southwales
 113,Jeyamohan Neera,PrivBit,Northumbria
-110,Graeme Moss,Hacks out for Harambe,Leedsbeckett
-106,Ryan Ritchie,UWE CyberSociety Team,UWE Bristol
+110,Niklas Henderson,Rabbit Season,UEA
+109,Ryan Ritchie,UWE CyberSociety Team,UWE Bristol
 105,Kit Murdock,JEKyll,Bham
 96,William Macluskie,The Famtastic Lomgbois,Lancaster
 90,C Hkscy,JEKyll,Bham
 87,Laszlo Nagy,M4nch35t3r,Manchester
-85,Niklas Henderson,Rabbit Season,UEA
 85,ZITAI CHEN,43mice,Bham
+84,Jamie Harper,SIGINT,ED
 82,Sunny Sherry,TheATeam,UAD
+81,Melania Ionica,Runtime Terror,Lancaster
+81,Carlos Jimnez,Bl4ckSn@k3_C3lul4,ESPOL
 79,Alex Leigh,The Famtastic Lomgbois,Lancaster
 78,John Richardson,SESH A,Sheffield
 74,Jonathan Freer,Corkscrew,Bham
-73,Jamie Harper,SIGINT,ED
 71,James Boorman,Piethon,Lancaster
 69,Antony Harley,Runtime Terror,Lancaster
 67,D Dixon,Underated,Bham
 67,Connor Duncan,TheATeam,UAD
 66,Alex Butler,The Stallions,Lancaster
-66,Melania Ionica,Runtime Terror,Lancaster
 65,Jordan Bell,licensed_winrar,Napier
-65,Carlos Jimnez,Bl4ckSn@k3_C3lul4,ESPOL
 64,Saira Hassan,M4nch35t3r,Manchester
 64,Steven Araujo,Bl4ckSn@k3_C3lul4,ESPOL
 63,Gwion ap Rheinallt,SIGINT,ED
@@ -52,31 +52,32 @@
 53,Ekku Jokinen,TheATeam,UAD
 53,Christopher Holder,Rabbit Season,UEA
 51,Alistair Porter,WhoAreWe,MMU
+49,Leshna Shamloll,unb00tables,Manchester
 49,Thomas Miller,The Famtastic Lomgbois,Lancaster
 49,Jessica Tapia,Piethon,Lancaster
 49,connor nelson,BackSlasher,Blackpool
 48,Jack Barradell-Johns,SESH A,Sheffield
 48,Andreea-Ina Radu,JEKyll,Bham
-46,Leshna Shamloll,unb00tables,Manchester
 46,Ric Derbyshire,Piethon,Lancaster
+46,Chris Purdy,Hackingham,Nottingham
 46,Polo Mints,0x03f3,Myport
-44,Nikolina Tudjarova,unb00tables,Manchester
+45,Nikolina Tudjarova,unb00tables,Manchester
 44,Prabhat Verma,unb00tables,Manchester
 44,Alex Staves,Piethon,Lancaster
 42,Esha Dasgupta,Underated,Bham
 42,Robert Halliwell,Hacks out for Harambe,Leedsbeckett
-40,Manuel Zhindon,unb00tables,Manchester
+41,Manuel Zhindon,unb00tables,Manchester
 40,Andrew Scholey,Wintermute is in charge,Leedsbeckett
 40,David Suriyaarachchi,0xBEEFBABE,Warwick
 37,kalon mcguigan,BackSlasher,Blackpool
 36,Ben Simms,The Stallions,Lancaster
 36,Kenny Camba Torres,Bl4ckSn@k3_C3lul4,ESPOL
+35,Toma Madanski,Gonzo Masters,Lancaster
 34,Simas Kuprelis,Kibir Tele Vibir,Manchester
-34,Chris Purdy,Hackingham,Nottingham
+34,Tom Shaw,Hacks out for Harambe,Leedsbeckett
+34,Joe Norton,Cyber Warriors ,Brookes
 34,Joseph Rose,0x03f3,Myport
 33,Bernard Tomczyk,Runtime Terror,Lancaster
-33,Tom Shaw,Hacks out for Harambe,Leedsbeckett
-33,Joe Norton,Cyber Warriors ,Brookes
 32,Vasilis Ieropoulos,Hackingham,Nottingham
 31,Joe Dillon,csgrodo,Rhul
 31,James Cook,0x03f3,Myport
@@ -98,7 +99,6 @@
 21,Harlan Connor,IDORa the Exploiter,Liverpool
 21,George Vasilakis,43mice,Bham
 20,Hristo Zhelyazkov,Manny1337,Salford
-20,Toma Madanski,Gonzo Masters,Lancaster
 20,Sayma Ahmed,Cyber Warriors ,Brookes
 19,Pijus Bradulskis,Kibir Tele Vibir,Manchester
 19,Siddhartha Mishra,Hackingham,Nottingham
@@ -161,12 +161,12 @@
 3,Zak Brown,0x03f3,Myport
 2,Calvin Brierley,pollyWannaHacker,Kent
 2,Jamie Pont,pollyWannaHacker,Kent
+2,Marc McIntosh,flagDropper,Napier
 2,Justin Chadwell,JEKyll,Bham
 2,Patrick Smith,Getting Edumacated,Northumbria
 2,Ben Sassoon,Corkscrew,Bham
 2,Anitha Manam,BugHunters,RGU
 2,Adrian Thompson,BCS Referree,BCS
-1,Marc McIntosh,flagDropper,Napier
 1,Aimee Mac Muireadhaigh,Wintermute is in charge,Leedsbeckett
 1,Alastair White,SIGINT,ED
 1,Khalid Olowe-Makorie,Gonzo Masters,Lancaster
