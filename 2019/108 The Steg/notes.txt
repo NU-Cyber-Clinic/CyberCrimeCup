@@ -1,0 +1,26 @@
+# We first ran zsteg over stegcode.png it found
+# a string at b1,r,lsb,xy with the start of
+# the flag was in there so I used the below
+# to extract the full string and get the flag
+zsteg -E b1,r,lsb,xy stegcode.png
+{ccc_steg:652393267x4}
+
+# Next we looked at steg-monster-art.png and
+# read the binary from around to get
+# http://stegmonster.co.uk/ and got the second flag
+{ccc_steg:007456106x2}
+
+# Next we cropped the center of
+# steg-monster-art.png and ran zsteg
+# on it and got the start of some
+# ascii art, extracted that for the flag
+zsteg -E b1,r,lsb,xy steg-monster-art2.png
+{ccc_steg:493247463x3}
+
+# Then looking at scramble.png
+# after the following cleanup by Joe
+## smaller (dark blue) binary fuzziness 200, bigger (green) binary fuzziness 0
+# I then skewed the image to make the 
+# flag clear and appended x1 to it to
+# follow the other formats
+{ccc_steg:854207353x1}
