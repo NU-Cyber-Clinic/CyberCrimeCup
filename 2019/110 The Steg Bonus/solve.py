@@ -1,5 +1,4 @@
 from PIL import Image
-import binascii
 
 im = Image.open('see-you-soon.png')
 
