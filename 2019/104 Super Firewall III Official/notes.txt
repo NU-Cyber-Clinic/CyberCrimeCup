@@ -1,4 +1,5 @@
 This challange is basic triple number brute force done through dumb brute force
+20 attempts then a 300 second time out
 Level 1 : 344
 
 Level 2 : 632

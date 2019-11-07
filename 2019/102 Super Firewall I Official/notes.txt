@@ -1,4 +1,5 @@
 This Challange is basic single number brute force done through dumb brute force
+1 attempts then a 300 second time out
 http://102.cybertrial.co.uk/
 Level 1 : 0
 

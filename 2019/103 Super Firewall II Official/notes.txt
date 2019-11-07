@@ -1,4 +1,5 @@
 This Challange is basic double number brute force done through dumb brute force
+5 attempts then a 300 second time out
 http://103.cybertrial.co.uk/
 Level 1 : 23
 
