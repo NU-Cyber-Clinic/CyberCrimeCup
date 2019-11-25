@@ -1,26 +1,27 @@
-231,The Stallions,Lancaster
+249,The Stallions,Lancaster
 226,The Famtastic Lomgbois,Lancaster
+223,NULL,Northumbria
 218,Piethon,Lancaster
-210,NULL,Northumbria
-197,Seg Fault Squad,Rhul
-193,SIGINT,ED
+217,Seg Fault Squad,Rhul
+209,SIGINT,ED
+202,Hacky McHackface,Southwales
+190,JEKyll,Bham
+189,SESH A,Sheffield
 189,Runtime Terror,Lancaster
-183,Hacky McHackface,Southwales
-175,SESH A,Sheffield
+182,Kibir Tele Vibir,Manchester
 174,Gonzo Masters,Lancaster
-162,JEKyll,Bham
-161,Kibir Tele Vibir,Manchester
-147,M4nch35t3r,Manchester
+159,M4nch35t3r,Manchester
+149,Hacks out for Harambe,Leedsbeckett
+147,flagDropper,Napier
 138,unb00tables,Manchester
-135,flagDropper,Napier
-134,Hacks out for Harambe,Leedsbeckett
-132,Bl4ckSn@k3_C3lul4,ESPOL
+133,Bl4ckSn@k3_C3lul4,ESPOL
 129,Rabbit Season,UEA
 115,TheATeam,UAD
 115,Hackingham,Nottingham
 113,PrivBit,Northumbria
 113,43mice,Bham
 109,UWE CyberSociety Team,UWE Bristol
+100,Cyber Warriors ,Brookes
 96,z00mers,Kent
 94,csgrodo,Rhul
 94,licensed_winrar,Napier
@@ -28,15 +29,14 @@
 94,Underated,Bham
 91,Corkscrew,Bham
 80,WhoAreWe,MMU
+67,pollyWannaHacker,Kent
 63,Getting Edumacated,Northumbria
-62,pollyWannaHacker,Kent
 61,IDORa the Exploiter,Liverpool
 61,Byte for Bait,Bournemouth
 61,BackSlasher,Blackpool
 58,Big Flag Energy,Sheffield
 55,ENUBeginners,Napier
 54,Wintermute is in charge,Leedsbeckett
-50,Cyber Warriors ,Brookes
 46,0x03f3,Myport
 40,0xBEEFBABE,Warwick
 40,Wizards of Holloway Place,Rhul
@@ -54,4 +54,7 @@
 4,AMU,Mycampus.apus.edu
 2,BCS Referree,BCS
 1,CultOfTheDeadCarrot,QUB
+1,IBM X-Force IRIS,IBM
+1,Hack The Box,Hackthebox.eu
 1,BCU{Cyber},BCU
+1,Quickfire,BCS esport
